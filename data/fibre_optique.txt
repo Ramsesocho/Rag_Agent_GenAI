@@ -1,0 +1,4 @@
+La fibre optique permet un accès à Internet très haut débit. Elle offre une vitesse de téléchargement et de téléversement bien supérieure à l’ADSL. 
+Elle est idéale pour les usages intensifs comme le streaming en 4K, les jeux en ligne, ou le télétravail.
+La connexion est plus stable, avec une latence plus faible.
+Cependant, son déploiement dépend de l'infrastructure locale.
